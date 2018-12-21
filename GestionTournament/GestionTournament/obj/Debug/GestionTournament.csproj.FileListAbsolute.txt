@@ -1,0 +1,10 @@
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\bin\Debug\GestionTournament.exe.config
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\bin\Debug\GestionTournament.exe
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\bin\Debug\GestionTournament.pdb
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.csprojAssemblyReference.cache
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.FrmGestTournois.resources
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.Properties.Resources.resources
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.csproj.GenerateResource.cache
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.csproj.CoreCompileInputs.cache
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.exe
+C:\Users\Cyril.GOLDENSCHUE\source\repos\GestionTournament\GestionTournament\obj\Debug\GestionTournament.pdb
